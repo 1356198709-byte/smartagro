@@ -1,0 +1,22 @@
+{
+  "name": "SmartAgro - Управление фермерским хозяйством",
+  "short_name": "SmartAgro",
+  "description": "Информационная система управления фермерским хозяйством / 农业综合信息管理系统",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#2d6a4f",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "ru"
+}

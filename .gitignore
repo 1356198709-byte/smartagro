@@ -1,0 +1,66 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ===== Node.js / 前端 =====
+node_modules/
+frontend/dist/
+
+# ===== 系统文件 =====
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ===== IDE 配置 =====
+.idea/
+.vscode/
+
+# ===== 个人文档（不上传）=====
+*.docx
+*.doc
+*.pdf
+*.pptx
+*.png
+*.jpg
+*.jpeg
+*.bkp
+
+# ===== 临时/草稿文件 =====
+~$*
+*.tmp
+*temp*
+*_temp*
+*临时*
+*final*
+*最终*
+
+# ===== 个人脚本 =====
+add_citations.py
+add_refs.py
+create_lpl.py
+create_speech.py
+_fix_stress.py
+修改ATK文档.py
+加文献出处.py
+生成中文版ATK.py
+检查格式.py
+
+# ===== 提取的文本（不传）=====
+docx_content.txt
+pdf_content.txt
+
+# ===== Claude 内部文件 =====
+.claude/
+
+# ===== 简历相关 =====
+个人简历*
+投递个人简历*
+西部开发简历*
+面试背诵*
+项目面试背诵*
+答辩发言稿*
+发言稿*
+我的演讲*
