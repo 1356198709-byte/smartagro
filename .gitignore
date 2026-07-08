@@ -48,6 +48,10 @@ _fix_stress.py
 生成中文版ATK.py
 检查格式.py
 
+# ===== 密钥文件（不上传！）=====
+密钥.txt
+*.env
+
 # ===== 提取的文本（不传）=====
 docx_content.txt
 pdf_content.txt
