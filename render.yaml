@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: smartagro-api
+    env: python
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: cd backend && python -c "from app.数据库 import engine, Base; from app.模型 import *; Base.metadata.create_all(bind=engine)" && python run.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0

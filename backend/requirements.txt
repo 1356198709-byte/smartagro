@@ -9,3 +9,5 @@ aiofiles>=23.2.1
 cryptography>=41.0.0
 bcrypt>=4.0.0
 greenlet>=3.0.0
+
+xlsxwriter>=3.0.0
