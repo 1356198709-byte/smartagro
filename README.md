@@ -86,7 +86,7 @@
 docker-compose up -d
 ```
 
-浏览器访问 `http://localhost:8000`
+在线访问：[https://1356198709-byte.github.io/smartagro](https://1356198709-byte.github.io/smartagro)
 
 ### 手动启动
 
